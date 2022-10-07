@@ -1,2 +1,2 @@
 # Simple Troubleshooting Utilities
- Some troubleshooting scripts and other utilities
+ Some troubleshooting scripts and other utilities.
